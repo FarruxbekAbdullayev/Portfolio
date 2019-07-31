@@ -1,0 +1,18 @@
+body{
+    background: white;
+    font-size: 14px;
+    line-height: 1.6;
+}
+.wrapper{
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+section{
+    display: -webkit-box;
+}
+#header{
+    background:linear-gradient(#a8ff78ab,#78ffd6ab), url(https://images.pexels.com/photos/380768/pexels-photo-380768.jpeg?cs=srgb&dl=architectural-design-architecture-ceiling-380768.jpg&fm=jpg) no-repeat;
+    background-size: cover;
+    height: 800px;
+}
